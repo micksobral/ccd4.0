@@ -1,0 +1,2 @@
+numero2 = int
+numero1 = int(input())
